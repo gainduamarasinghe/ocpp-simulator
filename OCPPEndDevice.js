@@ -20,7 +20,7 @@ const readline = require('readline');
 
 // ======== CONFIGURATION - UPDATE THESE ========
 const CP_ID = 'TG001';                    // Charger ID
-const SERVER_HOST = 'localhost';          // Testing server IP 
+const SERVER_HOST = '31.97.235.16';          // Testing server IP 
 const SERVER_PORT = 8090;                 // WebSocket port
 const USE_SSL = false;                    // true for wss://, false for ws://
 
